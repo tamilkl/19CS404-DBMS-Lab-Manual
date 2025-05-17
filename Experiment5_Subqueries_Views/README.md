@@ -1,6 +1,4 @@
 # Experiment 5: Subqueries and Views
-## Name: TAMILVANAN K L
-## Reg.no: 212222060270
 ## AIM
 To study and implement subqueries and views.
 
