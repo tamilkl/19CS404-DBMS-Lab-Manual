@@ -47,8 +47,8 @@ Design a database for patient management, appointments, medical records, and bil
 
 # ER Diagram Submission
 
-NAME - SINGAMALA VENKATA SAI KUMAR REDDY
-REGISTER NUMBER - 212223230208
+NAME - TAMILVANAN K L
+REGISTER NUMBER - 212222060270
 
 ## Scenario Chosen:
 University ER Diagram
@@ -93,4 +93,4 @@ Modeled with a recursive relationship on the Course entity. Represented by a sep
 ## Design Choices:
 Entities were selected to reflect distinct real-world components of a university system (e.g., students, faculties, courses). Attributes were chosen based on minimal information needed to identify and manage these entities. Relationships accurately capture the natural hierarchy and many-to-many connections in educational structures. Programs containing multiple courses, and courses being part of multiple programs, support curriculum flexibility. Faculties handle courses, which is a functional and administrative link. The university is at the top of the structure, logically managing both students and faculties.
 ## RESULT
-The ER model captures students, instructors, courses, programs, and their relationships, including enrollments and prerequisites. It’s clear, efficient, and supports future database extensions.**
+The ER model captures students, instructors, courses, programs, and their relationships, including enrollments and prerequisites. It’s clear, efficient, and supports future database extensions.
