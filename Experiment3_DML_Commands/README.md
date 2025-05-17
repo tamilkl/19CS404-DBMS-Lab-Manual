@@ -1,5 +1,5 @@
 # Experiment 3: DML Commands
-## NAME:TAMILVANAN K L
+## NAME: TAMILVANAN K L
 ## REG NO: 212222060270
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
