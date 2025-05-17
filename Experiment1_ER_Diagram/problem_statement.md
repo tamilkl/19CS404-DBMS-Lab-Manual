@@ -1,4 +1,4 @@
-**# Experiment 1: Entity-Relationship (ER) Diagram
+## Experiment 1: Entity-Relationship (ER) Diagram
 
 ## 🎯 Objective:
 To understand and apply the concepts of ER modeling by creating an ER diagram for a real-world application.
