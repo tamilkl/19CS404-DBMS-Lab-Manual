@@ -1,7 +1,4 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## NAME: TAMIVANAN K L
-## REG NO: 212222060270
-
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
