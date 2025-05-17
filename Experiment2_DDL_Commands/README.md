@@ -1,6 +1,4 @@
 # Experiment 2: DDL Commands
-## NAME:TAMILVANAN K L
-## REG NO:212222060270
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
