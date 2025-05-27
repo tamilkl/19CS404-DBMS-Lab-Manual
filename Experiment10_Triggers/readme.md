@@ -247,4 +247,3 @@ If the inserted salary in the employees table is below the condition (e.g., sala
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
-
